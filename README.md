@@ -1,7 +1,6 @@
 # 💫 About Me:
 • 🔭 I'm currently studying about new technologies<br>• 👯 I'm looking to build unique projects that will make life easier<br>• 🤝 I'm searching for collaboration and mentorship<br>• 🌱 I'm currently learning AI/ML, Agentic AI & many more to build autonomous systems<br>• 💬 Ask me about Full-stack development, AI integrations, or content creation
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isha09-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
